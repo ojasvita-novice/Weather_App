@@ -7,6 +7,9 @@
     background-color: #494747;
     margin: 20px auto 0 auto;
     padding: 0 20px 20px 20px;
+      /* background-image: linear-gradient(#AFEEEE,powderblue,skyblue,lightskyblue,#E0FFFF); */
+    background-color: #ffffff;
+background-image: linear-gradient(315deg, #ffffff 0%, #5899e2 74%,skyblue);
 }
 
 .top,.bottom
@@ -14,7 +17,9 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+
 }
+
 
 .city
 {
@@ -54,14 +59,21 @@
   width:100%;
   padding-left:20px;
   color:rgb(247, 247, 247);
+ 
+
   
+}
+
+.parameter-row .styledetails
+{
+      margin-bottom:6px;
 }
 
 .parameter-row
 {
     display:flex;
     justify-content:space-between;
-
+    margin-bottom:3px;
 }
 
 .parameter-label
@@ -69,6 +81,11 @@
     text-align: left;
     font-weight: 400;
     font-size: 12px;
+}
+
+.parameter-label{
+  font-weight: bolder;
+  font-size:13px;
 }
 
 .parameter-value

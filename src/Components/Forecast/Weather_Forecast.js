@@ -24,7 +24,7 @@ const Forecast = ({ data }) => {
     .slice(dayinaWeek, week_days.length)
     .concat(week_days.slice(0, dayinaWeek));
 
-  // console.log(forecastDay);
+  // console.log(forecastDay);..........
 
   return (
     <>

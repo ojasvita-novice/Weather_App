@@ -1,5 +1,13 @@
+body
+{
+  background-image:url(https://s3.envato.com/files/421560019/BC3ADF64-91B5-440C-8BD8-F7B52DDBFD63.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .container
 {
   max-width: 1080px;
   margin: 20px auto;
+  
 }
