@@ -1,6 +1,7 @@
 ## REACT PROJECT
 
 WEATHER-APP:
+Know the weather for a week beforehand, from the comfort of your home! Live Site: stat-weather.netlify.app
 
 KEY DETAILS: 
 
